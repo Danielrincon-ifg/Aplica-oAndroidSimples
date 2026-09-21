@@ -1,17 +1,21 @@
-# aplica_oandroidsimples
+# Tela de Perfil - Flutter
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para a atividade de criação de uma tela de perfil de usuário.
 
-## Getting Started
+## Recursos e Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Exibição da foto de perfil com cantos arredondados (aspecto retangular) e nome do usuário.
+- Informações de e-mail e telefone com ícones indicativos.
+- Botão "Seguir" com feedback via `SnackBar`.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Flutter / Dart**
+- **Material Design**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como executar o projeto
+
+1. Certifique-se de ter o Flutter instalado em sua máquina.
+2. Clone este repositório:
+   ```bash
+   git clone [https://github.com/Danielrincon-ifg/Aplica-oAndroidSimples.git](https://github.com/Danielrincon-ifg/Aplica-oAndroidSimples.git)
