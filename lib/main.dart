@@ -50,7 +50,7 @@ class PerfilPage extends StatelessWidget {
               ClipRRect(
                 borderRadius: BorderRadius.circular(20.0),
                 child: Image.network(
-                  'https://tse3.mm.bing.net/th/id/OIP.tjhVuEk1F5A7mfovFFs3FwHaHS?r=0&pid=ImgDet&w=191&h=187&c=7&o=7&rm=3',
+                  'https://cdn.pixabay.com/photo/2024/05/21/05/51/young-8776897_1280.jpg',
                   width: 150,
                   height: 200,
                   fit: BoxFit.cover,
